@@ -1,0 +1,27 @@
+#annee-dropdown .Select-value-label {
+    color: #006cfa !important;
+}    
+
+#annee-dropdown .Select-control {
+    background-color: white !important;
+    color:black;
+  }  
+  
+#annee-dropdown .Select-menu-outer {
+    background-color: rgb(34,34,34);
+    color: white;
+}
+
+#region-dropdown .Select-value-label {
+    color: #006cfa !important;
+}    
+
+#region-dropdown .Select-control {
+    background-color: white !important;
+    color:black;
+  }  
+  
+#region-dropdown .Select-menu-outer {
+    background-color: rgb(34,34,34);
+    color: white;
+}  
