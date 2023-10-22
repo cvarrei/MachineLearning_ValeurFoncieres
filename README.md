@@ -16,14 +16,12 @@ L'application peut se retrouver en ligne à l'adresse suivante: https://immopred
 
 ## Table of Contents
 1. [Documentation Technique](#documentation)
-4. [Notebooks](#notebooks)
+2. [Datasets](#datasets)
+3. [Notebooks](#notebooks)
    - [Exploratory Analysis](#exploratory-analysis)
    - [Modélisations](#local-modelisation)
    - [Analysis Report](#analysis-report)
    - [Submission Notebook](#submission-notebook)
-5. [Scripts](#scripts)
-6. [Contributing & Feedback](#contributing--feedback)
-7. [License](#license)
 
 # Documentation Technique
 
