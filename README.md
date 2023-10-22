@@ -41,6 +41,7 @@ Nous avons également récupéré [les tracés de chaque region et département 
 
 Dans [ce dossier](https://github.com/cvarrei/immo_TD/tree/main/Notebooks), vous retrouverez les différents notebooks qui nous ont permis de réaliser ce projet: 
 - notebook_immo_explo: Ce notebook retrace notre processus de preprocessing, de nettoyage et d'exploration initiale. Toutefois une exploration plus détaillée est disponible dans notre rapport d'analyse.
+- tree_typelocal: Ce notebook retrace la construction de l'algorithme de classification en cas d'absence d'étiquettage du type de bien.
 - notebook_TYPELOCAL_modelisation: Ces quatres notebooks retrace notre processus de preprocessing et modélisation selon les différents types de locaux.
 - submission_notebook: La partie modélisation s'est concrétisé par une compétition Kaggle sur un échantillon test qui représentait les ventes de biens de 2022. Ce notebook retrace donc tout le processus de traitement de l'échantillon test puis de prédiction.  
 
