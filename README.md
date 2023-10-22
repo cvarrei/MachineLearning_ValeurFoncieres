@@ -43,6 +43,6 @@ Nous avons également récupéré [les tracés de chaque region et département 
 
 Dans [ce dossier](https://github.com/cvarrei/immo_TD/tree/main/Mod%C3%A8le%20ML), vous pourrez retrouver nos différents pipelines de préprocessing ayant appris sur nos échantillons d'apprentissage ainsi que les modèles de machine learning en format .pkl. Vous pourrez retrouver également notre modèle qui nous permet de classifier le type de bien avant la prédiction final de la valeur foncière en cas d'absence d'étiquettage.
 
-# Rapport d'Analyse
+## Rapport d'Analyse
 
 Le rapport d'analyse est un document pdf expliquant de manière textuelle et simplifiée le processus de préprocessing, puis d'analyse univariée et bivariée des variables présentes dans le dataset originelainsi que des variables open-data ajoutées. Il est complétée par une description rapide des variables importantes pour les différents modèles de prédiciton. 
