@@ -27,7 +27,7 @@ Vous pourrez trouver un document technique [ici](https://github.com/cvarrei/immo
 
 ## Datasets
 
-Dans ce dossier, vous trouverez les jeux de données originels (valeursfoncieres-2018.zip à valeursfoncieres-2021.zip). Ceux-ci sont les [ventes de biens réalisées entre 2018 et 2021 en France](https://github.com/asardell/M2-SISE-2023/tree/main/rawdata), des jeux de données de plusieurs millions d'obersvations chacun.  data_train, df_dash_dashboard et df_sansNantypelocal sont des versions nettoyés du dataset originel qui nous ont permis de réaliser différentes étapes pour ne pas à avoir à manipuler le dataset complet (trop gros pour être manipulé quotidiennement).
+Dans [ce dossier](https://github.com/cvarrei/immo_TD/tree/main/Data), vous trouverez les jeux de données originels (valeursfoncieres-2018.zip à valeursfoncieres-2021.zip). Ceux-ci sont les [ventes de biens réalisées entre 2018 et 2021 en France](https://github.com/asardell/M2-SISE-2023/tree/main/rawdata), des jeux de données de plusieurs millions d'obersvations chacun.  data_train, df_dash_dashboard et df_sansNantypelocal sont des versions nettoyés du dataset originel qui nous ont permis de réaliser différentes étapes pour ne pas à avoir à manipuler le dataset complet (trop gros pour être manipulé quotidiennement).
 
 Nous y ajoutons des variables supplémentaires retrouvées principalement sur les open datasets du gouvernement français ou organismes nationaux: 
 - [Les données géographiques des communes](https://github.com/asardell/M2-SISE-2023/blob/main/rawdata/communes-departement-region.csv)
