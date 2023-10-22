@@ -15,14 +15,11 @@ L'application peut se retrouver en ligne à l'adresse suivante: https://immopred
 
 
 ## Dossiers du Repository
-1. [Documentation Technique](#documentation)
+1. [Documentation Technique](#documentation-technique)
 2. [Datasets](#datasets)
 3. [Notebooks](#notebooks)
-   - [Exploratory Analysis](#exploratory-analysis)
-   - [Modélisations](#local-modelisation)
-   - [Analysis Report](#analysis-report)
-   - [Submission Notebook](#submission-notebook)
-4. [Rapport d'Analyse](#rapport-analyse)
+4. [Modèles sauvegardés](#modèles-sauvegardés)
+5. [Rapport d'Analyse](#rapport-danalyse)
 
 # Documentation Technique
 
@@ -39,6 +36,12 @@ Nous y ajoutons des variables supplémentaires retrouvées principalement sur le
 - [Le prix au m2 et le nombre de ventes par communes aggrégés par département](https://www.data.gouv.fr/fr/datasets/indicateurs-immobiliers-par-commune-et-par-annee-prix-et-volumes-sur-la-periode-2014-2021/)
 
 Nous avons également récupéré [les tracés de chaque region et département français](https://www.data.gouv.fr/fr/datasets/contours-des-communes-de-france-simplifie-avec-regions-et-departement-doutre-mer-rapproches/) sur le site d'opendata du gouvernement français pour faciliter la cartographie. 
+
+# Notebooks
+
+# Modèles sauvegardés
+
+Dans [ce dossier](https://github.com/cvarrei/immo_TD/tree/main/Mod%C3%A8le%20ML), vous pourrez retrouver nos différents pipelines de préprocessing ayant appris sur nos échantillons d'apprentissage ainsi que les modèles de machine learning en format .pkl. Vous pourrez retrouver également notre modèle qui nous permet de classifier le type de bien avant la prédiction final de la valeur foncière en cas d'absence d'étiquettage.
 
 # Rapport d'Analyse
 
