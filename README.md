@@ -22,6 +22,7 @@ L'application peut se retrouver en ligne à l'adresse suivante: https://immopred
    - [Modélisations](#local-modelisation)
    - [Analysis Report](#analysis-report)
    - [Submission Notebook](#submission-notebook)
+4. [Rapport d'Analyse](#rapport-analyse)
 
 # Documentation Technique
 
