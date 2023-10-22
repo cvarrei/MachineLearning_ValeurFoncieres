@@ -21,11 +21,11 @@ L'application peut se retrouver en ligne à l'adresse suivante: https://immopred
 4. [Modèles sauvegardés](#modèles-sauvegardés)
 5. [Rapport d'Analyse](#rapport-danalyse)
 
-# Documentation Technique
+## Documentation Technique
 
 Vous pourrez trouver un document technique [ici](https://github.com/cvarrei/immo_TD/blob/main/documentation_technique.pdf) présentant le schéma fonctionnel de preprocessing et modélisation des données. Pour une analyse plus approfondie, vous pourrez trouver les notebooks dans les sections correspondantes.
 
-# Datasets
+## Datasets
 
 Dans ce dossier, vous trouverez les jeux de données originels (.......). Ceux-ci sont les [ventes de biens réalisées entre 2018 et 2021 en France](https://github.com/asardell/M2-SISE-2023/tree/main/rawdata), des jeux de données de plusieurs millions d'obersvations chacun. 
 Nous y ajoutons des variables supplémentaires retrouvées principalement sur les open datasets du gouvernement français ou organismes nationaux: 
@@ -37,9 +37,9 @@ Nous y ajoutons des variables supplémentaires retrouvées principalement sur le
 
 Nous avons également récupéré [les tracés de chaque region et département français](https://www.data.gouv.fr/fr/datasets/contours-des-communes-de-france-simplifie-avec-regions-et-departement-doutre-mer-rapproches/) sur le site d'opendata du gouvernement français pour faciliter la cartographie. 
 
-# Notebooks
+## Notebooks
 
-# Modèles sauvegardés
+## Modèles sauvegardés
 
 Dans [ce dossier](https://github.com/cvarrei/immo_TD/tree/main/Mod%C3%A8le%20ML), vous pourrez retrouver nos différents pipelines de préprocessing ayant appris sur nos échantillons d'apprentissage ainsi que les modèles de machine learning en format .pkl. Vous pourrez retrouver également notre modèle qui nous permet de classifier le type de bien avant la prédiction final de la valeur foncière en cas d'absence d'étiquettage.
 
