@@ -23,7 +23,7 @@ L'application peut se retrouver en ligne à l'adresse suivante: https://immopred
 
 ## Documentation Technique
 
-Vous pourrez trouver un document technique [ici](https://github.com/cvarrei/immo_TD/blob/main/documentation_technique.pdf) présentant le schéma fonctionnel de preprocessing et modélisation des données. Pour une analyse plus approfondie, vous pourrez trouver les notebooks dans les sections correspondantes.
+Vous pourrez trouver un document technique [ici](https://github.com/cvarrei/immo_TD/tree/main/Documentation%20Technique) présentant le schéma fonctionnel de preprocessing et modélisation des données. Pour une analyse plus approfondie, vous pourrez trouver les notebooks dans les sections correspondantes.
 
 ## Datasets
 
