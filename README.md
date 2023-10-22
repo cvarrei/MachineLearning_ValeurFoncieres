@@ -1,6 +1,6 @@
 # Immo_TD
 
-Pour un [projet orienté sur la programmation Python](https://github.com/asardell/M2-SISE-2023) de notre Master 2 Statistique et Informatique pour la Science des données (SISE) de l'Université Lyon 2, nous avons réalisé une analyse approfondie des valeurs foncières en France de 2018 à 2021. Le but de l'exercice était de proposer un algorithme pour prédire les valeurs foncières de biens vendu en 2022. 
+Pour un [projet orienté sur la programmation Python](https://github.com/asardell/M2-SISE-2023/blob/main/Roadmap.pdf) de notre Master 2 Statistique et Informatique pour la Science des données (SISE) de l'Université Lyon 2, nous avons réalisé une analyse approfondie des valeurs foncières en France de 2018 à 2021. Le but de l'exercice était de proposer un algorithme pour prédire les valeurs foncières de biens vendu en 2022. 
 
 Ce projet a été réalisé par Adrien Castex, Victor Sigogneau et Clovis Varangot-Reille. 
 
