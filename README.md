@@ -11,7 +11,7 @@ Pour ce faire, nous avons décomposé le projet en différentes étapes:
 4. Création d'un algorithme pour réaliser la prédiction
 5. Déploiement en ligne d'une application Dash avec un dashboard et une possibilité de prédiction.
 
-L'application peut se retrouver en ligne à l'adresse suivante: https://immopred-app.onrender.com/ . Le repository de l'application se trouve [ici](https://github.com/cvarrei/repo_test). 
+L'application peut se retrouver en ligne à l'adresse suivante: https://immopred-app.onrender.com/ . Le repository de l'application se trouve [ici](https://github.com/cvarrei/repo_test). Plus de détails sur l'application ainsi qu'une documentation utilisateur est présente dans le repository correspondant.
 
 
 ## Dossiers du Repository
