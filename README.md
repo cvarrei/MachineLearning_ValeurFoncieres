@@ -14,7 +14,7 @@ Pour ce faire, nous avons décomposé le projet en différentes étapes:
 L'application peut se retrouver en ligne à l'adresse suivante: https://immopred-app.onrender.com/ . Le repository de l'application se trouve [ici](https://github.com/cvarrei/repo_test). 
 
 
-## Table of Contents
+## Dossiers du Repository
 1. [Documentation Technique](#documentation)
 2. [Datasets](#datasets)
 3. [Notebooks](#notebooks)
