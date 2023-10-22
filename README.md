@@ -27,3 +27,19 @@ L'application peut se retrouver en ligne à l'adresse suivante: https://immopred
 # Documentation Technique
 
 Vous pourrez trouver un document technique [ici](https://github.com/cvarrei/immo_TD/blob/main/documentation_technique.pdf) présentant le schéma fonctionnel de preprocessing et modélisation des données. Pour une analyse plus approfondie, vous pourrez trouver les notebooks dans les sections correspondantes.
+
+# Datasets
+
+Dans ce dossier, vous trouverez les jeux de données originels (.......). Ceux-ci sont les [ventes de biens réalisées entre 2018 et 2021 en France](https://github.com/asardell/M2-SISE-2023/tree/main/rawdata), des jeux de données de plusieurs millions d'obersvations chacun. 
+Nous y ajoutons des variables supplémentaires retrouvées principalement sur les open datasets du gouvernement français ou organismes nationaux: 
+- [Les données géographiques des communes](https://github.com/asardell/M2-SISE-2023/blob/main/rawdata/communes-departement-region.csv)
+- [Le nombre d'écoles élémentaires par département](https://www.observatoire-des-territoires.gouv.fr/nombre-decoles-elementaires)
+- [Le salaire horaire moyen par département](https://www.insee.fr/fr/statistiques/2021266)
+- [Le pourcentage de population active par département](https://www.insee.fr/fr/statistiques/2012710#titre-bloc-1)
+- [Le prix au m2 et le nombre de ventes par communes aggrégés par département](https://www.data.gouv.fr/fr/datasets/indicateurs-immobiliers-par-commune-et-par-annee-prix-et-volumes-sur-la-periode-2014-2021/)
+
+Nous avons également récupéré [les tracés de chaque region et département français](https://www.data.gouv.fr/fr/datasets/contours-des-communes-de-france-simplifie-avec-regions-et-departement-doutre-mer-rapproches/) sur le site d'opendata du gouvernement français pour faciliter la cartographie. 
+
+# Rapport d'Analyse
+
+Le rapport d'analyse est un document pdf expliquant de manière textuelle et simplifiée le processus de préprocessing, puis d'analyse univariée et bivariée des variables présentes dans le dataset originelainsi que des variables open-data ajoutées. Il est complétée par une description rapide des variables importantes pour les différents modèles de prédiciton. 
