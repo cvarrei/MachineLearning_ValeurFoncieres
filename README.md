@@ -50,4 +50,4 @@ Dans [ce dossier](https://github.com/cvarrei/immo_TD/tree/main/Mod%C3%A8le%20ML)
 
 ## Rapport d'Analyse
 
-Le rapport d'analyse est un document pdf expliquant de manière textuelle et simplifiée le processus de préprocessing, puis d'analyse univariée et bivariée des variables présentes dans le dataset originelainsi que des variables open-data ajoutées. Il est complétée par une description rapide des variables importantes pour les différents modèles de prédiciton. 
+Le [rapport d'analyse](https://github.com/cvarrei/immo_TD/tree/main/Rapport%20d'analyse) est un document pdf expliquant de manière textuelle et simplifiée le processus de préprocessing, puis d'analyse univariée et bivariée des variables présentes dans le dataset originelainsi que des variables open-data ajoutées. Il est complétée par une description rapide des variables importantes pour les différents modèles de prédiciton. 
