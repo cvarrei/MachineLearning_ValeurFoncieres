@@ -18,7 +18,7 @@ L'application peut se retrouver en ligne à l'adresse suivante: https://immopred
 1. [Documentation Technique](#documentation)
 4. [Notebooks](#notebooks)
    - [Exploratory Analysis](#exploratory-analysis)
-   - [Local Modelisation](#local-modelisation)
+   - [Modélisations](#local-modelisation)
    - [Analysis Report](#analysis-report)
    - [Submission Notebook](#submission-notebook)
 5. [Scripts](#scripts)
@@ -27,4 +27,4 @@ L'application peut se retrouver en ligne à l'adresse suivante: https://immopred
 
 # Documentation Technique
 
-Un document 
+Vous pourrez trouver un document technique [ici](https://github.com/cvarrei/immo_TD/blob/main/documentation_technique.pdf) présentant le schéma fonctionnel de preprocessing et modélisation des données. Pour une analyse plus approfondie, vous pourrez trouver les notebooks dans les sections correspondantes.
